@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://blindtyping.com</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://blindtyping.com/ru" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://blindtyping.com/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blindtyping.com/de" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blindtyping.com/es" />
+<lastmod>2026-11-09T18:46:53.525Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://blindtyping.com/test</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://blindtyping.com/ru/test" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://blindtyping.com/fr/test" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blindtyping.com/de/test" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blindtyping.com/es/test" />
+<lastmod>2026-11-09T18:46:53.525Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://blindtyping.com/lessons</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://blindtyping.com/ru/lessons" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://blindtyping.com/fr/lessons" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blindtyping.com/de/lessons" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blindtyping.com/es/lessons" />
+<lastmod>2026-11-09T18:46:53.525Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://blindtyping.com/practice</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://blindtyping.com/ru/practice" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://blindtyping.com/fr/practice" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blindtyping.com/de/practice" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blindtyping.com/es/practice" />
+<lastmod>2026-11-09T18:46:53.525Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://blindtyping.com/me/statistics</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://blindtyping.com/ru/me/statistics" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://blindtyping.com/fr/me/statistics" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blindtyping.com/de/me/statistics" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blindtyping.com/es/me/statistics" />
+<lastmod>2026-11-09T18:46:53.525Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.75</priority>
+</url>
+<url>
+<loc>https://blindtyping.com/preferences</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://blindtyping.com/ru/preferences" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://blindtyping.com/fr/preferences" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blindtyping.com/de/preferences" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blindtyping.com/es/preferences" />
+<lastmod>2026-11-09T18:46:53.525Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.75</priority>
+</url>
+</urlset>

@@ -1,0 +1,84 @@
+[
+    {
+        "code": "telegram-community-1",
+        "locale": "en",
+        "title": "Join Blindtyping Telegram Community!",
+        "description": "Tell us about bugs! Bring new ideas! Communicate with other users!",
+        "autoClose": false,
+        "photo": {
+            "type": "lottie",
+            "url": "/media/imgs/notifications/telegram-community.json",
+            "containerStyle": { "margin": "0 auto", "width": "65%" }
+        },
+        "buttons": [
+            {
+                "title": "Join",
+                "link": {
+                    "url": "https://t.me/+5FUL9jArYQRkN2Ji",
+                    "type": "external_blank"
+                }
+            }
+        ]
+    },
+    {
+        "code": "telegram-community-1",
+        "locale": "ru",
+        "title": "Присоединяйся к Telegram-сообществу Blind Typing!",
+        "description": "Сообщи о багах! Делись идеями! Общайся с другими пользователями!",
+        "autoClose": false,
+        "photo": {
+            "type": "lottie",
+            "url": "/media/imgs/notifications/telegram-community.json",
+            "containerStyle": { "margin": "0 auto", "width": "65%" }
+        },
+        "buttons": [
+            {
+                "title": "Вступить",
+                "link": {
+                    "url": "https://t.me/+5FUL9jArYQRkN2Ji",
+                    "type": "external_blank"
+                }
+            }
+        ]
+    },
+    {
+        "code": "leaderboard-1",
+        "locale": "en",
+        "title": "Leaderboard is now available!",
+        "description": "Compete with typists around the world! Track your WPM and CPM rankings, see how you stack up against the community, and climb to the top of the leaderboard!",
+        "autoClose": 25000,
+        "photo": {
+            "type": "image",
+            "url": "/media/imgs/notifications/leaderboard-feature.png"
+        },
+        "buttons": [
+            {
+                "title": "Open",
+                "link": {
+                    "type": "internal",
+                    "pathname": "/leaderboard"
+                }
+            }
+        ]
+    },
+    {
+        "code": "leaderboard-1",
+        "locale": "ru",
+        "title": "Лидерборды теперь доступны!",
+        "description": "Соревнуйтесь с людьми со всего мира! Отслеживайте свои позиции по WPM и CPM, смотрите, как вы выглядите на фоне сообщества, и поднимайтесь на вершину лидерборда!",
+        "autoClose": 25000,
+        "photo": {
+            "type": "image",
+            "url": "/media/imgs/notifications/leaderboard-feature.png"
+        },
+        "buttons": [
+            {
+                "title": "Открыть",
+                "link": {
+                    "type": "internal",
+                    "pathname": "/leaderboard"
+                }
+            }
+        ]
+    }
+]

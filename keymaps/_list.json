@@ -1,0 +1,6 @@
+{
+    "english": ["qwerty", "dvorak", "colemak", "azerty", "qwertz"],
+    "french": ["azerty"],
+    "russian": ["йцукен"],
+    "all": ["qwerty", "dvorak", "colemak", "azerty", "qwertz", "йцукен"]
+}

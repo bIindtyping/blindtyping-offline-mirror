@@ -1,0 +1,8 @@
+{
+  "name": "azerty",
+  "layout": [
+    ["aA", "zZ", "eE", "rR", "tT", "yY", "uU", "iI", "oO", "pP", "[{", "]}"],
+    ["qQ", "sS", "dD", "fF", "gG", "hH", "jJ", "kK", "lL", "mM", "\"\""],
+    ["wW", "xX", "cC", "vV", "bB", "nN", "?,", ".;", "/:", "!§"]
+  ]
+}

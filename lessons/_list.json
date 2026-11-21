@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "{F}, {J} and {U} Keys",
+        "steps": 5
+    },
+
+    {
+        "id": 2,
+        "name": "{D}, {E}, {K} and {I} Keys",
+        "steps": 7
+    },
+
+    {
+        "id": 3,
+        "name": "{S}, {W}, {L} and {O} Keys",
+        "steps": 7
+    },
+
+    {
+        "id": 4,
+        "name": "{G}, {T}, {H} and {Y} Keys",
+        "steps": 7
+    },
+
+    {
+        "id": 5,
+        "name": "{A}, {Q} and {P} Keys",
+        "steps": 8
+    },
+
+    {
+        "id": 6,
+        "name": "{R}, {B} and {N} Keys",
+        "steps": 7
+    },
+
+    {
+        "id": 7,
+        "name": "{V}, {M} and {C} Keys",
+        "steps": 6
+    },
+
+    {
+        "id": 8,
+        "name": "{X} and {Z} Keys",
+        "steps": 7
+    },
+    {
+        "id": 9,
+        "name": "{[} and {]} Keys",
+        "steps": 9
+    },
+    {
+        "id": 10,
+        "name": "{;} and {'} Keys",
+        "steps": 9
+    },
+    {
+        "id": 11,
+        "name": "{,} and {.} Keys",
+        "steps": 9
+    }
+]

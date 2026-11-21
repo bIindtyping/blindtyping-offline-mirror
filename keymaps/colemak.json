@@ -1,0 +1,8 @@
+{
+  "name": "colemak",
+  "layout": [
+    ["qQ", "wW", "fF", "pP", "gG", "jJ", "lL", "uU", "yY", ";:", "[{", "]}"],
+    ["aA", "rR", "sS", "tT", "dD", "hH", "nN", "eE", "iI", "oO", "\"\""],
+    ["zZ", "xX", "cC", "vV", "bB", "kK", "mM", ",<", ".>", "/?"]
+  ]
+}

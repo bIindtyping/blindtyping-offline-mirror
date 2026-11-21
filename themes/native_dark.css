@@ -1,0 +1,9 @@
+:root {
+    --c-background: #22272e;
+    --c-sub: #272e35;
+    --c-sub-alt: #6d7887;
+    --c-primary: #4895ef;
+    --c-text: #cbd0df;
+    --c-error: #ef6c75;
+    --c-caret: #4895ef;
+}
